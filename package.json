@@ -11,22 +11,6 @@
     }
   ],
   "dependencies": {
-    "redis": "^2.8.0",
-    "sqlite": "^3.0.1",
-    "request": "^2.34",
-    "request-promise-native": "^1.0.7",
-    "javascript-state-machine": "^3.1.0",
-    "ajv": "^6.7.0",
-    "json-schema-ref-parser": "^6.0.3",
-    "openapi-jsonschema-parameters": "^1.1.0",
-    "co-body": "^6.0.0",
-    "dotenv": "^6.2.0",
-    "js-yaml": "^3.13.1",
-    "koa": "^2.6.2",
-    "koa-body": "^4.0.6",
-    "koa2-oauth-server": "^1.0.0",
-    "node-fetch": "^2.3.0",
-    "uuid": "^3.3.2"
   },
   "devDependencies": {
   }
